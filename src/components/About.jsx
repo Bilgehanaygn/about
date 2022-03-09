@@ -41,8 +41,8 @@ const About = () => {
                     </Typography>
                     <br></br>
                     <Typography>
-                        I've have official experience of 1.5 months of internship in LC Waikiki. I've used Flutter for front-end 
-                        development and written API's with Python Flask framework during my internship.
+                        I have 1.5 months of official experience (internship) in LC Waikiki. I have used Flutter for front-end 
+                        development and written API's with Python's Flask framework during my internship.
                     </Typography>
                     <br></br>
                     <Typography>
