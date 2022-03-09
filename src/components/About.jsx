@@ -25,8 +25,8 @@ const About = () => {
             <Grid item md={9.5} sm={6} xs={8}>
                 <Container style={{textIndent:"2em"}}>
                     <Typography>             
-                        I'm 3rd grade in Hacettepe University Computer Engineering. I have basic knowledge on a few different field 
-                        Developing. If you check my Github account, you will see a mobile game which is available in Google Play 
+                        3rd grade of Bachelor's at Hacettepe University Computer Engineering. I have basic knowledge on a few different 
+                        fields of Developing. If you check my Github account, you will see a mobile game which is available in Google Play 
                         Store, projects on machine learning (neural network implementation from scratch), and simple web 
                         apps(react.js, angular in front end; java + spring boot, node.js in backend.)
                     
