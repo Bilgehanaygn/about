@@ -27,15 +27,16 @@ const About = () => {
                     <Typography>             
                         3rd grade of Bachelor's at Hacettepe University Computer Engineering. I have basic knowledge on a few different 
                         fields of Developing. If you check my Github account, you will see a mobile game which is available in Google Play 
-                        Store, projects on machine learning (neural network implementation from scratch), and simple web 
-                        apps(react.js, angular in front end; java + spring boot, node.js in backend.)
+                        Store, projects on machine learning (dynamic layer of neural network implementation from scratch; ham, spam mail
+                        detection by NLP and Naive Bayes classifier from scratch), simple web apps(react.js, angular in front end;
+                        java + spring boot, node.js in backend.) Basic bitcoin implementation etc.
                     
                         Finally I've decided to work in web3.0 development. I'm trying to learn smart contracts on Ethereum +  
                         React.js more professionally.
                     </Typography>
                     <br></br>
                     <Typography>
-                        I'm working with a company from UK unofficially, (of course I'm getting paid). What I'm doing is to create  
+                        I'm working with a company in UK unofficially, (of course I'm getting paid). What I'm doing is to create  
                         desktop apps which automates data analysis. I'm using python(tkinter for GUI; pandas, numpy, matplotlib etc. for data manipulation) 
                         for this.
                     </Typography>
