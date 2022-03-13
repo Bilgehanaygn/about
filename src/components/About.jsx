@@ -36,9 +36,10 @@ const About = () => {
                     </Typography>
                     <br></br>
                     <Typography>
-                        I'm working with a company in UK unofficially, (of course I'm getting paid). What I'm doing is to create  
+                        I'm working with a company in UK unofficially, (of course I'm getting paid). What I'm doing is creating  
                         desktop apps which automates data analysis. I'm using python(tkinter for GUI; pandas, numpy, matplotlib etc. for data manipulation) 
-                        for this.
+                        for this. Since the app I develop analyzes big data, I'm also dealing with more advanced topics such as threads, 
+                        async processes etc. for upload/download processes.
                     </Typography>
                     <br></br>
                     <Typography>
