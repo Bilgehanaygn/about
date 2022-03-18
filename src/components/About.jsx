@@ -36,10 +36,11 @@ const About = () => {
                     </Typography>
                     <br></br>
                     <Typography>
-                        I'm working with a company in UK unofficially, (of course I'm getting paid). What I'm doing is creating  
-                        desktop apps which automates data analysis. I'm using python(tkinter for GUI; pandas, numpy, matplotlib etc. for data manipulation) 
-                        for this. Since the app I develop analyzes big data, I'm also dealing with more advanced topics such as threads, 
-                        async processes etc. for upload/download processes.
+                        I'm working with a company in UK since 15/02/2022. What I'm doing is to develop desktop apps which automates 
+                        data analysis. I'm using python(tkinter for GUI; pandas, numpy, matplotlib etc. for data manipulation and third
+                        party packages such as sweetviz, pandas_profiling) for the analysis. Since the app I develop analyzes big data, 
+                        operations on the data are supposed to be async, and that pushes me to deal with more advanced topics such as threads, 
+                        async processes etc.
                     </Typography>
                     <br></br>
                     <Typography>
