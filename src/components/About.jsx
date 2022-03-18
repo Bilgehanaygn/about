@@ -31,8 +31,7 @@ const About = () => {
                         detection by NLP and Naive Bayes classifier from scratch), simple web apps(react.js, angular in front end;
                         java + spring boot, node.js in backend.) Basic bitcoin implementation etc.
                     
-                        Finally I've decided to work in web3.0 development. I'm trying to learn smart contracts on Ethereum +  
-                        React.js more professionally.
+                        Now I'm really into blockchain technologies. I'm learning smart contracts on Ethereum.
                     </Typography>
                     <br></br>
                     <Typography>
@@ -44,12 +43,12 @@ const About = () => {
                     </Typography>
                     <br></br>
                     <Typography>
-                        I have 1.5 months of official experience (internship) in LC Waikiki. I have used Flutter for front-end 
+                        I also have 1.5 months of experience (internship) in LC Waikiki. I have used Flutter for front-end 
                         development and written API's with Python's Flask framework during my internship.
                     </Typography>
                     <br></br>
                     <Typography>
-                        I'm open for your offers of long-term internship starting from this summer.
+                        I'm open for your offers(especially for blockchain technologies) of long-term internship starting from this summer.
                         My current GPA is 2.93/4, I hope it will be over 3.00 by the end of this semester.
                     </Typography>
                     <br></br><br></br>
